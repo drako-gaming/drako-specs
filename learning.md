@@ -1,0 +1,5 @@
+- [Intro to React](https://reactjs.org/tutorial/tutorial.html)
+- [Getting started with Redux](https://redux.js.org/introduction/getting-started)
+- [Redux made easy with Redux Toolkit and Typescript](https://www.mattbutton.com/redux-made-easy-with-redux-toolkit-and-typescript/)
+- [Twitter Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
+-
